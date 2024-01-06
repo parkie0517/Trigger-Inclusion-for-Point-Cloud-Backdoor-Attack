@@ -1,4 +1,4 @@
-# Transfer-Learning-Based-Backdoor-Attack-in-Point-Cloud-Classifiers
+# Tigger Inclusion for Point Cloud Backdoor Attack
 A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers
 
 Directions for usage
